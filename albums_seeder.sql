@@ -10,7 +10,7 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 50.2,'Pop, post-disco, funk, rock')
     ('Shania Twain', 'Come On Over', 1997, 30.4, 'Country, pop'),
     ('Fleetwood Mac', 'Rumours', 1977, 29.3, 'Soft rock'),
     ('Bee Gees', 'Saturday Night Fever', 1977, 22.1, 'Disco'),
-    ('Led Zappelin', 'Led Zeppelin IV', 1971, 30.4, 'Hard rock, Heavy metal, folk'),
+    ('Led Zeppelin', 'Led Zeppelin IV', 1971, 30.4, 'Hard rock, Heavy metal, folk'),
     ('Michael Jackson', 'Bad', 1987, 21.1, 'Pop, rhythm and blues, funk, rock'),
     ('Meat Loaf', 'Bat Out of Hell', 1977, 22, 'Hard rock, glam rock, progressive rock'),
     ('Alanis Morissette', 'Jagged Little Pill', 1995, 25.4, 'Alternative rock'),
